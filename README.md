@@ -51,7 +51,7 @@ Enjoy controlling your RC car and soccer bot wirelessly with Bluetooth!
 ## Circuit Diagrams
 
 ### BTS Motor Driver Circuit
-![BTS Motor Driver Circuit](https://github.com/Nakib00/RC_Car_Soccer_Bot_code/blob/main/Image/RC%20and%20Soccor%20circuit%20using%202%20BTS.jpg?raw=true)
+![BTS Motor Driver Circuit](https://github.com/Nakib00/RC_Car_Soccer_Bot_code/blob/main/Image/Flowcharts.png?raw=true)
 
 ### L298 Motor Driver Circuit
 ![L298 Motor Driver Circuit](https://github.com/Nakib00/RC_Car_Soccer_Bot_code/blob/main/Image/RC%20and%20Soccor%20circuit%20using%202%20BTS.jpg?raw=true)
